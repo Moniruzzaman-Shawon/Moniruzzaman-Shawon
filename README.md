@@ -14,7 +14,3 @@ Skills: JS / HTML / CSS
 - 📫 How to reach me: m.zaman_djp@yahoo.com 
 
 
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Moniruzzaman Shawon)  
-
