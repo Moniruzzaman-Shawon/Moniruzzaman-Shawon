@@ -9,7 +9,6 @@ I'm Moniruzzaman Shawon
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on Programming Hero 
-- 🌱 I’m currently learning JS 
 - 💬 Ask me about Web development. 
 - 📫 How to reach me: m.zaman_djp@yahoo.com
 - 🗃️ For more info: [Visit my resume.](https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing)https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing
