@@ -7,7 +7,11 @@ I believe in the power of clean, responsive, and user-centric design. Whether it
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moniruzzamanshawon&label=Profile%20views&color=0e75b6&style=flat" alt="moniruzzamanshawon" /> </p>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/shawon17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shawon17" height="30" width="40" /></a>
+<a href="https://kaggle.com/shawon17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shawon17" height="30" width="40" /></a>
+</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moniruzzaman-Shawon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/shawon17)  
