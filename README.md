@@ -7,15 +7,7 @@ I believe in the power of clean, responsive, and user-centric design. Whether it
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moniruzzamanshawon&label=Profile%20views&color=0e75b6&style=flat" alt="moniruzzamanshawon" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
-
-
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS 
 
 - 🔭 I’m currently working on Programming Hero 
 - 💬 Ask me about Web development. 
