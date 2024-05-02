@@ -22,4 +22,6 @@ Skills: JS / HTML / CSS
 - 📫 How to reach me: m.zaman_djp@yahoo.com
 - 🗃️ For more info: [Visit my resume.](https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing)https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moniruzzaman-Shawon&show_icons=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Moniruzzaman-Shawon)  
