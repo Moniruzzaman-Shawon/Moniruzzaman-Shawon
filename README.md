@@ -18,7 +18,7 @@ Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on Programming Hero 
 - 💬 Ask me about Web development. 
-- 📫 How to reach me: m.zaman_djp@yahoo.com
+- 📫 How to reach me: m.zaman.djp@gmail.com
 - 🗃️ For more info: [Visit my resume.](https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing)https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moniruzzaman-Shawon)](https://github.com/anuraghazra/github-readme-stats)
