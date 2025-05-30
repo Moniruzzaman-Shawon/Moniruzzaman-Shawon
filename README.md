@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moniruzzaman Shawon</h1>
-<h3 align="center">I am a passionate and enthusiastic webpage developer eager to craft engaging digital experiences through code.</h3>
+<h3 align="center">I am a passionate and enthusiastic web developer eager to craft engaging digital experiences through code.</h3>
 I believe in the power of clean, responsive, and user-centric design. Whether it's building a simple yet elegant static site or creating interactive web applications, I aim to blend functionality with aesthetics, ensuring seamless experiences across devices.
 
 <h3 align="left">Languages and Tools:</h3>
