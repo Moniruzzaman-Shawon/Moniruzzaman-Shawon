@@ -92,10 +92,10 @@
 
 ### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moniruzzaman-Shawon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.zaman.djp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moniruzzamanshawon)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shawon17)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white&label=)](https://github.com/Moniruzzaman-Shawon)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white&label=)](mailto:m.zaman.djp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/moniruzzamanshawon)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white&label=)](https://kaggle.com/shawon17)
 
 
 ---
