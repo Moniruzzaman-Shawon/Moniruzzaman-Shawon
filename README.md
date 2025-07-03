@@ -92,10 +92,10 @@
 
 ### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white&label=)](https://github.com/Moniruzzaman-Shawon)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white&label=)](mailto:m.zaman.djp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/moniruzzamanshawon)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white&label=)](https://kaggle.com/shawon17)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="40" height="40" alt="GitHub" />](https://github.com/Moniruzzaman-Shawon)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40" height="40" alt="Email" />](mailto:m.zaman.djp@gmail.com)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />](https://linkedin.com/in/moniruzzamanshawon)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.svg" width="40" height="40" alt="Kaggle" />](https://kaggle.com/shawon17)
 
 
 ---
