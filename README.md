@@ -93,9 +93,12 @@
 
 ### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white&label=)](https://github.com/Moniruzzaman-Shawon)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white&label=)](mailto:m.zaman.djp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/moniruzzamanshawon)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white&label=)](mailto:m.zaman.djp@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white&label=)](https://github.com/Moniruzzaman-Shawon)
+
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white&label=)](https://kaggle.com/shawon17)
 
 ---
