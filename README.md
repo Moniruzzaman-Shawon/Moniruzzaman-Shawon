@@ -92,35 +92,11 @@
 
 
 ### 📫 Connect with me
-<div class="connect-buttons">
-  <!-- GitHub -->
-  <a href="https://github.com/Moniruzzaman-Shawon" target="_blank" aria-label="GitHub" rel="noreferrer" title="GitHub">
-    <svg role="img" height="24" width="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-      <path d="M12 .5C5.73.5.5 5.73.5 12c0 5.07 3.29 9.36 7.86 10.88.57.1.78-.25.78-.56 0-.28-.01-1.02-.01-2-3.2.7-3.88-1.54-3.88-1.54-.52-1.33-1.26-1.69-1.26-1.69-1.03-.7.08-.69.08-.69 1.14.08 1.74 1.17 1.74 1.17 1.02 1.75 2.68 1.25 3.33.95.1-.74.4-1.25.72-1.54-2.55-.29-5.23-1.28-5.23-5.68 0-1.25.45-2.27 1.17-3.07-.12-.28-.51-1.42.11-2.95 0 0 .95-.3 3.12 1.17.9-.25 1.87-.38 2.83-.38.96 0 1.93.13 2.83.38 2.16-1.48 3.11-1.17 3.11-1.17.63 1.53.24 2.67.12 2.95.73.8 1.17 1.82 1.17 3.07 0 4.41-2.69 5.39-5.26 5.67.41.35.77 1.03.77 2.08 0 1.5-.01 2.7-.01 3.06 0 .31.2.67.79.55A10.5 10.5 0 0023.5 12C23.5 5.73 18.27.5 12 .5z"/>
-    </svg>
-  </a>
 
-  <!-- Email -->
-  <a href="mailto:m.zaman.djp@gmail.com" target="_blank" aria-label="Email" rel="noreferrer" title="Email">
-    <svg role="img" height="24" width="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-      <path d="M20 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2zm0 2v.01L12 13 4 6.01V6h16zM4 18v-9.38l7.32 6.3a1 1 0 001.36 0L20 8.62V18H4z"/>
-    </svg>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/moniruzzamanshawon" target="_blank" aria-label="LinkedIn" rel="noreferrer" title="LinkedIn">
-    <svg role="img" height="24" width="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-      <path d="M20.447 20.452h-3.554v-5.569c0-1.327-.026-3.038-1.852-3.038-1.853 0-2.136 1.445-2.136 2.939v5.668H9.35V9h3.414v1.561h.049c.476-.9 1.637-1.85 3.37-1.85 3.604 0 4.271 2.371 4.271 5.455v6.286zM5.337 7.433a2.065 2.065 0 11.001-4.13 2.065 2.065 0 01-.001 4.13zM6.765 20.452H3.911V9h2.854v11.452zM22.225 0H1.771C.792 0 0 .771 0 1.724v20.549C0 23.23.792 24 1.771 24h20.451c.98 0 1.778-.77 1.778-1.726V1.724C24 .77 23.205 0 22.225 0z"/>
-    </svg>
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://kaggle.com/shawon17" target="_blank" aria-label="Kaggle" rel="noreferrer" title="Kaggle">
-    <svg role="img" height="24" width="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-      <path d="M22.846 6.387c-.045-.07-4.645-7.05-4.646-7.05-.271-.434-.635-.567-1.103-.58a1.334 1.334 0 00-1.157.729c-1.47 2.932-2.94 5.865-4.407 8.799-.023.047-.047.096-.083.168l5.222 7.849a.48.48 0 00.866-.075c.927-1.854 1.857-3.707 2.781-5.565a.68.68 0 00-.007-.52zM12.383 12.777l-5.305-7.965c-.328.548-.636 1.067-.952 1.579-.095.16-.2.207-.382.22a.99.99 0 01-1.007-1.06c.056-.591.112-1.182.166-1.772a.691.691 0 00-.182-.517C4.02 4.158 2.625 2.414 1.23.675a.506.506 0 00-.835.46c.007 5.687.004 11.375.006 17.062a.57.57 0 00.807.523c1.357-.753 2.713-1.507 4.07-2.26a.72.72 0 00.188-.175z"/>
-    </svg>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white&label=)](https://github.com/Moniruzzaman-Shawon)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white&label=)](mailto:m.zaman.djp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/moniruzzamanshawon)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white&label=)](https://kaggle.com/shawon17)
 
 ---
 
@@ -128,7 +104,7 @@
   <img src="https://komarev.com/ghpvc/?username=moniruzzamanshawon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
----
+
 
 ### 📄 Resume  
 [Download my resume](https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing)  
