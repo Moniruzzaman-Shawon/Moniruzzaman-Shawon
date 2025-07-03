@@ -20,7 +20,7 @@ I believe in the power of clean, responsive, and user-centric design. Whether it
 
 
   <!-- Backend & Frameworks -->
-  <h3 align="left">🛢🔧 Back-End & Frameworks</h3>
+  <h3 align="left">🔧 Back-End & Frameworks</h3>
   <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
