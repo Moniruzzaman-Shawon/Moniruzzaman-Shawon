@@ -106,8 +106,10 @@
 
 
 
-### 📄 Resume  
-[Download my resume](https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing)  
+### 📄 Resume
+
+You can download my resume here:  
+[**Download PDF**](https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing) 📥
 
 ---
 
