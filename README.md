@@ -110,7 +110,7 @@
 ### 📄 Resume
 
 You can download my resume here:  
-[**Download PDF**](https://drive.google.com/file/d/1QEo2EmEE5mMsoV9u6hsdVU8RkIadkFgW/view?usp=sharing) 📥
+[**Download PDF**](https://drive.google.com/file/d/1wUGOKgmLqQb4kddo49h3UdpXYqYhMkCn/view?usp=sharing) 📥
 
 ---
 
