@@ -27,6 +27,32 @@
   </a>
 </p>
 
+### 🤖 Machine Learning & Data
+<p align="center">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
+  </a>
+</p>
+
+
 ### 🌐 Frontend Development
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -100,6 +126,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white&label=)](https://github.com/Moniruzzaman-Shawon)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white&label=)](https://kaggle.com/shawon17)
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=plastic&logo=twitter&logoColor=white&label=)](https://x.com/Shawon17117)
+[![Hugging%20Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=000000&label=)](https://huggingface.co/shawon17)
 
 
 ---
