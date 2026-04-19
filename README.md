@@ -139,8 +139,8 @@
 
 ### 📄 Resume
 
-You can download my resume here:  
-<a href="https://drive.google.com/uc?export=download&id=1rAsZtlVX62CDTE3zd5H5qtS40ACvVLQw" target="_blank" rel="noopener noreferrer"><strong>📥 Download PDF</strong></a>
+<a href="https://drive.google.com/uc?export=download&id=1rAsZtlVX62CDTE3zd5H5qtS40ACvVLQw" target="_blank" rel="noopener noreferrer"><strong>📥 Download PDF</strong></a>  
+<sub>Tip: middle-click or Ctrl/Cmd+click to open in a new tab.</sub>
 
 ---
 
