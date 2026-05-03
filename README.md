@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moniruzzaman Shawon</h1>
-<h3 align="center">Software Engineer (Full-Stack) | Machine Learning Learner</h3>
+<h3 align="center">Software Engineer | Machine Learning Learner</h3>
 
 <p align="center">
   I create elegant, responsive web applications with a focus on user experience and clean code.<br/>
