@@ -120,7 +120,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/moniruzzamanshawon)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&label=)]([https://linkedin.com/in/moniruzzamanshawon](https://www.linkedin.com/in/moniruzzaman-shawon-898bba418/))
 [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=plastic&logo=hackerrank&logoColor=white&label=)](https://www.hackerrank.com/profile/m_zaman_djp)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white&label=)](mailto:m.zaman.djp@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white&label=)](https://github.com/Moniruzzaman-Shawon)
